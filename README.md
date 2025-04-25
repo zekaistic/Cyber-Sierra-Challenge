@@ -35,8 +35,8 @@ The application provides a simple interface with three main sections:
 1.  **Clone the repository (or save the code):**
     ```bash
     # If you have a repo:
-    # git clone <your-repo-url>
-    # cd <your-repo-directory>
+    # git clone https://github.com/zekaistic/Cyber-Sierra-Challenge.git
+    # cd Cyber-Sierra-Challenge
 
     # Or just save the Python script (e.g., as app.py)
     ```
